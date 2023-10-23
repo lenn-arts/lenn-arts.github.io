@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-09-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I started my master's in CS (Machine Learning) at Columbia University under generous support of the ERP Scholarship.
