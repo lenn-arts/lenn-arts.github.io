@@ -29,6 +29,10 @@
   - firstname: ["Hendrik Antoon"]
     url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
+"Lipson":
+  - firstname: ["Hod"]
+    url: https://www.hodlipson.com/
+
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
