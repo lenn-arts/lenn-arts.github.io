@@ -18,7 +18,7 @@ projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning and robotics research assistant.
+I am a machine learning and robotics research assistant, broadly interested in deep learning, 3d computer vision, and robotics. Particularly, I am interested in building methods to learn generalizable, multimodal, robust, and explainable neural field representations of the world that allow embodied agents to reason about their environment with commonsense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
