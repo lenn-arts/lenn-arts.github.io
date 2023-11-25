@@ -5,7 +5,7 @@ permalink: /projects/
 description: Explorative and engineering projects completed outside of published research.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [projects]
 horizontal: true
 ---
 
