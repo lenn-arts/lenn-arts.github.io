@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-* denotes equal contribution.
+\* denotes equal contribution.
 
 <div class="publications">
 
