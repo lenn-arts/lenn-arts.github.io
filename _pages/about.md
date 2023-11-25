@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Computer Science graduate, ERP Scholar & Research Assistant at <a href='https://cs.columbia.edu'>Columbia University</a>
+subtitle: M.S. Computer Science graduate, ERP Scholar & Research Assistant at <a href='https://cs.columbia.edu'>Columbia University</a>.
 
 profile:
   align: left
@@ -18,7 +18,10 @@ projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning and robotics research assistant, broadly interested in deep learning, 3d computer vision, and robotics. Particularly, I am interested in building methods to learn generalizable, multimodal, robust, and explainable neural field representations of the world that allow embodied agents to reason about their environment with commonsense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
+I am a machine learning and robotics research assistant, broadly interested in deep learning, 3d computer vision, and robotics. Particularly, I am interested in building methods that can learn generalizable, multimodal, robust, and explainable neural field representations of the world that allow embodied agents to reason about their environment with commonsense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
+
+I am currently a Graduate Research Assistant working on dynamic neural fields at Columbia's Creative Machines Lab, advised by Prof. Hod Lipson. I have also been a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robustness for language and vision models with Prof. Dylan Hadfield-Menell. Prior to that, I worked on quantum machine learning for high energy physics at IBM Research advised by Dr. Panos Barkoutsos, collaborating with CERN. At IBM, I also held several positions in ML engineering, cloud computing, data science and AI safety, working with internal and industrial clients. 
+I am a Fellow of the German Academic Scholarship Foundation, of the German Academic Exchange Service, and an ERP Scholar of the German Government. 
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
