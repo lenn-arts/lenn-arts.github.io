@@ -6,18 +6,18 @@ title: Lennart Schulze # the website title (if blank, full name will be used ins
 first_name: Lennart
 middle_name: 
 last_name: Schulze
-email: you@example.com
+email: lennart.schulze@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Lennart Schulze is a Research Assistant in AI at Columbia University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+# Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: Lennart Schulze, artificial intelligence, machine learning, robotics, computer vision, research, PhD  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://lenn-arts.github.io # the base hostname & protocol for your site
+url: https://lennartschulze.com # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  E-Mail is the best way to reach me.
+  Please contact me via e-mail: lennart . schulze <at> columbia.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
