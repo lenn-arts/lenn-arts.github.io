@@ -9,7 +9,8 @@ profile:
   image: lennart_schulze.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>New York, NY</p>
+    <p>New York, NY</p><br/>
+    <p>lennart . schulze <at> columbia . edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
