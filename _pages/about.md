@@ -5,12 +5,12 @@ permalink: /
 subtitle: M.S. Computer Science graduate, ERP Scholar & Research Assistant at <a href='https://cs.columbia.edu'>Columbia University</a>.
 
 profile:
-  align: left
+  align: right
   image: lennart_schulze.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>New York, NY</p><br/>
-    <p>lennart . schulze <at> columbia . edu</p>
+    <p fontsize=10px>New York, NY</p><br/>
+    lennart . schulze [at] columbia . edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
