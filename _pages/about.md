@@ -18,7 +18,7 @@ projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning and robotics research assistant, broadly interested in deep learning, 3d computer vision, and robotics. Particularly, I am interested in building methods that can learn generalizable, multimodal, robust, and explainable neural field representations of the world that allow embodied agents to reason about their environment with commonsense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
+I am a machine learning and robotics research assistant, broadly interested in deep learning, 3d computer vision, and robotics. Particularly, I am interested in building methods that can learn generalizable, multimodal, robust, explainable, and controllable neural field representations of the world that allow embodied agents to reason about their environment with common sense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
 
 I am currently a Graduate Research Assistant working on dynamic neural fields at Columbia's Creative Machines Lab, advised by Prof. Hod Lipson. I have also been a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robustness for language and vision models with Prof. Dylan Hadfield-Menell. Prior to that, I worked on quantum machine learning for high energy physics at IBM Research advised by Dr. Panos Barkoutsos, collaborating with CERN. At IBM, I also held several positions in ML engineering, cloud computing, data science and AI governance, working with internal and industrial clients. 
 
