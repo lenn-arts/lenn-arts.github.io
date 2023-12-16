@@ -6,4 +6,4 @@ importance: 1
 category: project
 ---
 
-Details to be added.
+Please find details here: <a href="/assets/pdf/presentation_multimodal_IL.pdf">Presentation</a>.
