@@ -6,4 +6,4 @@ importance: 1
 category: project
 ---
 
-Please find details here: <a href="../assets/pdf/poster_probnerf.pdf">Poster</a>.
+Please find details here: <a href="/assets/pdf/poster_probnerf.pdf">Poster</a>.
