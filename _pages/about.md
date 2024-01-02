@@ -24,7 +24,7 @@ I am currently a Graduate Research Assistant working on dynamic neural fields at
 
 I am a Fellow of the German Academic Scholarship Foundation, of the German Academic Exchange Service, and an ERP Scholar of the German Government. 
 
-If you were referred to this webpage, you can find my **research agenda** <a href="/assets/pdf/research_agenda" title="research agenda (protected)">here</a>.
+If you were referred to this webpage, you can find my **research agenda** <a href="/assets/pdf/research_agenda.pdf" title="research agenda (protected)">here</a>.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
