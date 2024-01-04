@@ -6,4 +6,4 @@ importance: 1
 category: project
 ---
 
-Details to be added.
+Please find details here: <a href="/assets/pdf/paper_aireqs.pdf">Paper</a>.
