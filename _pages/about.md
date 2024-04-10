@@ -24,8 +24,6 @@ Currently, I am a Graduate Research Assistant working on dynamic neural fields a
 
 I am a Fellow of the German Academic Scholarship Foundation, of the German Academic Exchange Service (DAAD), and an ERP Scholar of the German Government. 
 
-If you were referred to this webpage, you can find my **research agenda** <a href="/assets/pdf/research_agenda.pdf" title="research agenda (protected)">here</a>.
-
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 // Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
