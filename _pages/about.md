@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Computer Science graduate, ERP Scholar & Research Assistant at <a href='https://cs.columbia.edu'>Columbia University</a>.
+subtitle: Computer Science Ph.D. student at <a href='https://cs.columbia.edu'>Columbia University</a>.
 
 profile:
   align: left
@@ -18,9 +18,10 @@ projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning research assistant, broadly interested in deep learning, 3D computer vision, and robotics. In particular, I am interested in building methods that can learn generalizable, multimodal, robust, explainable, and controllable neural scene representations of the world that allow embodied agents to reason about their environment with common sense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
+I am a machine learning Ph.D. student, broadly interested in deep learning, 3D computer vision, and robotics. In particular, I am interested in building methods that can learn generalizable, multimodal, robust, explainable, and controllable neural scene representations of the world that allow embodied agents to reason about their environment with common sense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
 
-Currently, I am a Graduate Research Assistant working on dynamic neural fields at Columbia's Creative Machines Lab, advised by Prof. Hod Lipson. I was also a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robustness for language and vision models with Prof. Dylan Hadfield-Menell. Prior to that, I worked on quantum machine learning for high-energy physics at IBM Research advised by Dr. Panos Barkoutsos in collaboration with CERN. At IBM, I also held several positions in ML engineering, cloud computing, data science, and AI governance, working with internal and industrial clients. 
+Currently, I am a Graduate Research Assistant in Columbia's CS department co-advised by Prof. Matei Ciocarlie and Prof. Carl Vondrick. Before that, I worked on dynamic neural fields with Prof. Hod Lipson in Columbia's Creative Machines Lab.
+I was also a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robustness for language and vision models with Prof. Dylan Hadfield-Menell. Prior to that, I worked on quantum machine learning for high-energy physics at IBM Research advised by Dr. Panos Barkoutsos in collaboration with CERN. At IBM, I also held several positions in ML engineering, data science, and AI governance.
 
 I am a Fellow of the German Academic Scholarship Foundation, of the German Academic Exchange Service (DAAD), and an ERP Scholar of the German Government. 
 
