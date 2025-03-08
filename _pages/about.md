@@ -25,6 +25,8 @@ I was also a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robust
 
 I have been a Fellow of the German Academic Scholarship Foundation, of the German Academic Exchange Service (DAAD), and an ERP Scholar of the German Government. 
 
+<p style='text-color:#fc9803'>**I am looking for motivated undergraduate and master's students with a strong background in machine learning or computer vision interested in conducting research. Projects can begin in Summer or Fall 2025.**</p>
+
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 // Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
