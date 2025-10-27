@@ -18,7 +18,7 @@ projects: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning Ph.D. student, advised by Prof. Matei Ciocarlie and Prof. Carl Vondrick. I am broadly interested in deep learning, 3D computer vision, and robotics. In particular, I am interested in building methods that can learn generalizable, multimodal, robust, and controllable neural scene representations of the world that allow embodied agents to reason about their environment with common sense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
+I am a machine learning Ph.D. student, advised by Prof. Matei Ciocarlie and Prof. Carl Vondrick. I am broadly interested in deep learning, 3D computer vision, and robotics. In particular, I am interested in developing generalizable and multi-modal scene representations, world models, and generative models that allow embodied agents to reason about their environment with common sense. Naturally, robot perception, interaction, and manipulation are applications of these methods.
 
 Before beginning my Ph.D., I worked on dynamic neural fields with Prof. Hod Lipson in Columbia's Creative Machines Lab.
 I was also a Visiting Research Fellow at MIT CSAIL, where I worked on OOD robustness for language and vision models with Prof. Dylan Hadfield-Menell. Prior to that, I worked on quantum machine learning for high-energy physics at IBM Research advised by Dr. Panos Barkoutsos in collaboration with CERN. At IBM, I also held several positions in ML engineering, data science, and AI governance.
