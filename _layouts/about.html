@@ -62,14 +62,14 @@ layout: default
           <!-- Service -->
           <h2>service</h2>
           {%- include service.html %}
+          {{ include_relative _pages/service.md | markdownify }}
+          {{ site.data.service.service }}
 
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
                 {%- include social.html %}
-                {{ include_relative _pages/service.md | markdownify }}
-                {{ site.data.service.service }}
               </div>
 
               <div class="contact-note">
