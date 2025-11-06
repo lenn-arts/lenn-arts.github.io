@@ -67,7 +67,8 @@ layout: default
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
-                {% include social.html %}
+                {%- include social.html %}
+                {{ include_relative _pages/service.md | markdownify }}
               </div>
 
               <div class="contact-note">
