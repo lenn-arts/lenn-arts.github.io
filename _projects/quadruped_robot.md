@@ -2,7 +2,7 @@
 layout: page
 title: Build a walking quadruped robot from scratch
 description: I design, manufacture, and control a four-legged robot to walk.
-img: assets/img/9.jpg
+img: assets/img/metalhead_thumbnail_vertical.jpg
 importance: 1
 category: project
 ---
