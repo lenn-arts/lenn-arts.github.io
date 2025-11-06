@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: Computer Science Ph.D. student at <a href='https://cs.columbia.edu'>Columbia University</a>.
 
