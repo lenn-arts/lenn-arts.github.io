@@ -6,7 +6,7 @@ description: Explorative and engineering projects completed outside of published
 nav: true
 nav_order: 2
 display_categories: [project]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
