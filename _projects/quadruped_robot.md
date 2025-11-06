@@ -32,7 +32,7 @@ We get the robot to walk fast by deploying a short cyclical gait for the 8 servo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metalhead_gait_plot" title="Metalhead optimal sinusoidal gait" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/metalhead_gait_plot.png" title="Metalhead optimal sinusoidal gait" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
