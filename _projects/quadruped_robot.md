@@ -2,7 +2,7 @@
 layout: page
 title: Build a walking quadruped robot from scratch
 description: I design, manufacture, and control a four-legged robot to walk.
-img: assets/img/metalhead_thumbnail.jpg
+img: assets/img/9.jpg
 importance: 1
 category: project
 ---
@@ -13,7 +13,7 @@ Watch the full engineering journey from start to end:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="800" height="315" src="https://www.youtube-nocookie.com/embed/gTV5YUqbgmM?si=86GznT94GUoocRxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/gTV5YUqbgmM?si=86GznT94GUoocRxH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -32,7 +32,7 @@ We get the robot to walk fast by deploying a short cyclical gait for the 8 servo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/metalhead_gait_plot.png" title="Metalhead optimal sinusoidal gait" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/metalhead_gait_plot.png" title="Metalhead optimal gait" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
