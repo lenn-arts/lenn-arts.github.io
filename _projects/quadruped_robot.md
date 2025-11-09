@@ -17,7 +17,7 @@ Watch the full engineering journey from start to end:
     </div>
 </div>
 
-The robot is consistent between CAD, real world manufacture, and simulation, allowing to run design optimization as well as gait optimization and learning.
+The robot is consistent between CAD, real world manufacture, and simulation, allowing us to run design optimization as well as gait optimization and learning.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,6 +26,19 @@ The robot is consistent between CAD, real world manufacture, and simulation, all
 </div>
 <div class="caption">
    Metalhead CAD design, built in the real-world, and digital twin in simulation
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/metalhead_set2.jpg" title="Metalhead interior, and high-angle view" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/metalhead_set1.jpg" title="Metalhead top, low-angle, and side view" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 We get the robot to walk fast by deploying a short cyclical gait for the 8 servos that is inspired by the result of evolutionary algorithms.
