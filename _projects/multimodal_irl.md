@@ -6,4 +6,4 @@ importance: 1
 category: project
 ---
 
-Please find details here: <a href="/assets/pdf/presentation_multimodal_IRL.pdf">Presentation</a>.
+Please find details here: <a href="/assets/pdf/presentation_multimodal_irl.pdf">Presentation</a>.
